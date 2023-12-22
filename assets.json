@@ -87,13 +87,69 @@
         },
         {
             "title":"PAYPAL",
-            "url":"https://github.com/slaterjohn/payment-logos/raw/master/Square%20Corners/SVG/paypal.svg"
+            "url":"https://github.com/bitsafeoficial/payment_banks/raw/main/local/ic_baseline-paypal.svg"
         }
     ],
     "wallets":[
         {
             "title":"PAYPAL",
             "url":"https://github.com/slaterjohn/payment-logos/raw/master/Square%20Corners/SVG/paypal.svg"
+        },
+        {
+            "title":"AMEX AMERICAN EXPRESS",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/american-express.svg"
+        },
+        {
+            "title":"CARTES BANCAIRES CB",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/cartes-bancaires.svg"
+        },
+        {
+            "title":"DANKORT DK",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/dankort.svg"
+        },
+        {
+            "title":"DINERS",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/diners.svg"
+        },
+        {
+            "title":"DISCOVER",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/discover.svg"
+        },
+        {
+            "title":"ELO",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/elo.svg"
+        },
+        {
+            "title":"HIPERCARD",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/hipercard.svg"
+        },
+        {
+            "title":"JCB",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/jcb.svg"
+        },
+        {
+            "title":"MAESTRO ALT",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/maestro.svg"
+        },
+        {
+            "title":"MASTERCARD",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/mastercard.svg"
+        },
+        {
+            "title":"UATP",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/uatp.svg"
+        },
+        {
+            "title":"UNIONPAY",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/unionpay.svg"
+        },
+        {
+            "title":"VISA",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/visa.svg"
+        },
+        {
+            "title":"VPAY",
+            "url":"https://github.com/datatrans/payment-logos/raw/master/assets/cards/vpay.svg"
         }
     ]
 }
