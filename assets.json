@@ -1,0 +1,99 @@
+{
+    "banks":[
+        {
+            "title": "INTER",
+            "url": "https://raw.githubusercontent.com/victoraugustoas/brazil-banks-logo-svg/main/svg/077/outLined.svg"
+        },
+        {
+            "title": "BANCO DO BRASIL",
+            "url": "https://raw.githubusercontent.com/victoraugustoas/brazil-banks-logo-svg/main/svg/001/outLine.svg"
+        },
+    
+        {
+            "title": "SANTANDER",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/033/outLine.svg"
+        },
+        {
+            "title": "XP INVESTIMENTOS",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/102/outLined.svg"
+        },
+        {
+            "title": "CAIXA",
+            "url": "https://raw.githubusercontent.com/victoraugustoas/brazil-banks-logo-svg/main/svg/104/outLined.svg"
+        },
+        {
+            "title": "ITAU ITAÚ",
+            "url": "https://raw.githubusercontent.com/victoraugustoas/brazil-banks-logo-svg/main/svg/104/outLined.svg"
+        },
+        {
+            "title": "BANCO ORIGINAL",
+            "url": "https://raw.githubusercontent.com/victoraugustoas/brazil-banks-logo-svg/main/svg/104/outLined.svg"
+        },
+        {
+            "title": "BRADESCO",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/237/outLined.svg"
+        },
+        {
+            "title": "NUBANK",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/260/outLined.svg"
+        },
+        {
+            "title": "BANCO BMG",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/318/outLined.svg"
+        },
+        {
+            "title": "C6 BANK",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/336/outLined.svg"
+        },
+        {
+            "title": "PICPAY",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/380/outLined.svg"
+        },
+        {
+            "title": "BANCO CORA",
+            "url": "https://github.com/victoraugustoas/brazil-banks-logo-svg/raw/main/svg/403/outLined.svg"
+        },
+        {
+            "title": "BANCO AMAZONIA",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/banco-amazonia.svg"
+        },
+        {
+            "title": "BANCO BRASILIA",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/banco-brasilia.svg"
+        },
+        {
+            "title": "BANCO NORDESTE BANCO DO NORDESTE",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/banco-nordeste.svg"
+        },
+        {
+            "title": "BANCO REAL",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/banco-real.svg"
+        },
+        {
+            "title": "BANESTES",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/banestes.svg"
+        },
+        {
+            "title": "BOSTON",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/bank-boston.svg"
+        },
+        {
+            "title": "CITI BANK",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/citi-bank.svg"
+        },
+        {
+            "title": "SAFRA",
+            "url": "https://github.com/matheuscuba/icones-bancos-brasileiros/raw/master/src/512/safra.svg"
+        },
+        {
+            "title":"PAYPAL",
+            "url":"https://github.com/slaterjohn/payment-logos/raw/master/Square%20Corners/SVG/paypal.svg"
+        }
+    ],
+    "wallets":[
+        {
+            "title":"PAYPAL",
+            "url":"https://github.com/slaterjohn/payment-logos/raw/master/Square%20Corners/SVG/paypal.svg"
+        }
+    ]
+}
